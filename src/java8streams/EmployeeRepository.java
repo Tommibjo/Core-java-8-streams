@@ -10,6 +10,9 @@ import java.util.stream.Stream;
 /**
  *
  * @author tommib
+ * 
+ * Not real repository, but just plain class holding employees in array
+ * 
  */
 public class EmployeeRepository {
 
